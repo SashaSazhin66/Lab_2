@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="btnAdd">+</string>
+    <string name="btnSub">-</string>
+    <string name="btnMult">*</string>
+    <string name="btnDiv">/</string>
+    <string name="info">Info</string>
+    <string name="program_directed_by">Program Directed by</string>
+    <string name="robert_b_weide">ROBERT B. WEIDE</string>
+    <string name="change">change</string>
+    <string name="executive_producer">Executive Producer</string>
+    <string name="larry_david">LARRY DAVID</string>
+    <string name="jeff_garlin">JEFF GARLIN</string>
+</resources>
